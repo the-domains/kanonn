@@ -1,0 +1,14 @@
+layout_spectrum: 0.1949517
+typography_spectrum: 0.3197822
+color:
+  saturation: 0.09849647
+  lightness: 0.8415682
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#A6A6A6'
+    - '#365CA4'
+    - '#ED1B22'
+  rhythmicContrast: 0.7876955
+name: Kanonn
