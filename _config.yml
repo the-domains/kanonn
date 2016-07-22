@@ -1,14 +1,26 @@
-layout_spectrum: 0.1949517
-typography_spectrum: 0.3197822
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.09849647
-  lightness: 0.8415682
   brandStrength: 1
+  rhythmicContrast: 0.7876955
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#A6A6A6'
     - '#365CA4'
     - '#ED1B22'
-  rhythmicContrast: 0.7876955
+  lightness: 0.8415682
+typography_spectrum: 0.4462943
+layout_spectrum: 0.537594
 name: Kanonn
