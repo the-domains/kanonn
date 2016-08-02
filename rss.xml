@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kanonn]]></title>
+        <description><![CDATA[kanonn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 04:50:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ポケモン第1号ゲット]]></title>
+            <description><![CDATA[<article><h1>ポケモン第1号ゲット</h1><p>ポケモンGOはじまりましたね。記念すべき捕獲第1号はタッツーとかいうやつでした。（正確にはチュートリアルで別のゲットしてるから2号なんだけどw ）机の上にいた。やることいろいろあってハマりそうなのがわかる気がする。</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/379e65ec-3c50-48f3-948f-9122ac8c249e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/379e65ec-3c50-48f3-948f-9122ac8c249e.jpg</link>
+            <guid isPermaLink="false">67de0076-ad50-492c-865e-ac5e9be2ce61</guid>
+            <pubDate>Tue, 02 Aug 2016 04:50:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
